@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+
+#title{
+    font-size: 50px;
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#main{
+    background-color: brown;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Updock', cursive;
+}
+
+#img-div{
+    text-align: center;
+    background-color: coral;
+    padding: 25px;
+    width: 75%;
+    margin:auto;
+    border-radius: 10px;
+}
+
+#img-caption{
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+#tribute-info{
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tribute-link{
+    font-size: 20px;
+    font-weight: bold;
+}
